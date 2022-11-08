@@ -1,0 +1,62 @@
+html {
+  background-color: rgba(243, 241, 241, 0.945);
+}
+nav {
+  padding-left: 10%;
+}
+span {
+  padding-left: 5px;
+}
+#rollin-link,
+#slack-link,
+#trello-link {
+  color: black;
+  border-color: red;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: white;
+  text-decoration: unset;
+}
+
+#rollin-link:hover {
+  background-color: rgb(255, 234, 234);
+}
+
+#slack-link:hover {
+  background-color: rgb(255, 234, 234);
+}
+
+#trello-link:hover {
+  background-color: rgb(255, 234, 234);
+}
+
+#rollin-link:active {
+  color: black;
+  border-color: red;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: white;
+  text-decoration: unset;
+}
+
+#slack-link:active {
+  color: black;
+  border-color: red;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: white;
+  text-decoration: unset;
+}
+
+#trello-link:active {
+  color: black;
+  border-color: red;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: white;
+  text-decoration: unset;
+}
